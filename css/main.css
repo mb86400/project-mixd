@@ -1,0 +1,101 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color: white;
+	color: white;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.theSuperContainer{
+	background-color: black;
+	padding: 0;
+	margin: 0;
+}
+
+.headerr{
+	background-color: black;
+	font-size: 40px;
+	margin-top: 20px;
+}
+
+.title{
+	background-color: black;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 40px;
+}
+
+.side{
+	/* background-color: blue; */
+	background-color: #262626;
+	background-color: #191919;
+	background-color: #0E0E12;
+	
+	margin-top: 17px;
+	/* margin-bottom: 34px; */
+	text-align: left;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+
+.menu a{
+	text-decoration: none;
+	color: white;
+}
+
+label{ /* hamburger icon */
+	font-size: 35px;
+	display: none;
+}
+#toggle{ /* checkmark */
+	display: none;
+}
+
+
+.musicContainer{
+  background-color: black;
+	padding-right: 20px;
+
+}
+
+.f{
+
+	background-color: black;
+}
+
+.playlistContainer{
+	background-color: black;
+	padding: 17px;
+	border 1px solid #e1e1e1;
+}
+
+/* .playlistContainer2{
+	background-color: #CCA5C3;
+	padding: 0.85em;
+} */
+
+
+.A{background-color: black;}
+.B{
+		background-color: black;
+		font-size: 20px;
+	}
+.C{background-color: black;}
+
+/*
+.A{background-color: #4CF5FF;}
+.B{background-color: #00C0CC;}
+.C{background-color: #00787F;}
+ */
+
+
+
+/* colors */
+/*
+#4CF5FF
+#00C0CC
+#00787F
+*/
